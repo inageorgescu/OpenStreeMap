@@ -4,7 +4,7 @@
 "Avenida": ["avda","avda","ave","av"],
 "Barrio": ["bº","bar","b"],
 "Bulevar": ["blvr", "bd"],
-"Calle": ["cl","c/","c", "Cale", "CL"],
+"Calle": ["cl","c/","c", "Cale", "CL", "cl."],
 "Calleja": ["clja"],
 "Callejón": ["cljn", "calexon", "calexón", "calexn"],
 "Camino": ["cmno", "camiño", "camio"],
